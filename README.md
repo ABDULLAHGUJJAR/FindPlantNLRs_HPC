@@ -1,1 +1,1 @@
-# FindPlantNLRs_HPC
+# Plant_NLR_Annotation_Pipeline
